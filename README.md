@@ -62,7 +62,7 @@ httpd.serve_forever()
 
 ```
 # OUTPUT:
-!<img>(output.png)
+![img](output.png)
 
 # RESULT:
 
